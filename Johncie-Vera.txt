@@ -1,6 +1,9 @@
 https://codepen.io/Johncie/pen/jObYePK?editors=1100
 
-1. What is Semantic HTML? 
+1
+
+
+. What is Semantic HTML? 
 	It provides meaning to the content.
     2. What is HTML used for? 
 	It is used to markup the content, and the structure of the website.
